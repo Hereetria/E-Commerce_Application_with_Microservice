@@ -1,0 +1,934 @@
+[
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.AboutsController",
+    "Method": "AboutList",
+    "RelativePath": "api/Abouts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.AboutsController",
+    "Method": "CreateAbout",
+    "RelativePath": "api/Abouts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAboutDto",
+        "Type": "MultiShop.Catalog.Dtos.AboutDtos.CreateAboutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.AboutsController",
+    "Method": "DeleteAbout",
+    "RelativePath": "api/Abouts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.AboutsController",
+    "Method": "UpdateAbout",
+    "RelativePath": "api/Abouts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateAboutDto",
+        "Type": "MultiShop.Catalog.Dtos.AboutDtos.UpdateAboutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.AboutsController",
+    "Method": "GetAboutById",
+    "RelativePath": "api/Abouts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.BrandsController",
+    "Method": "BrandList",
+    "RelativePath": "api/Brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.BrandsController",
+    "Method": "CreateBrand",
+    "RelativePath": "api/Brands",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createBrandDto",
+        "Type": "MultiShop.Catalog.Dtos.BrandDtos.CreateBrandDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.BrandsController",
+    "Method": "DeleteBrand",
+    "RelativePath": "api/Brands",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.BrandsController",
+    "Method": "UpdateBrand",
+    "RelativePath": "api/Brands",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateBrandDto",
+        "Type": "MultiShop.Catalog.Dtos.BrandDtos.UpdateBrandDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.BrandsController",
+    "Method": "GetBrandById",
+    "RelativePath": "api/Brands/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.CategoriesController",
+    "Method": "CategoryList",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.CategoriesController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCategoryDto",
+        "Type": "MultiShop.Catalog.Dtos.CategoryDtos.CreateCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.CategoriesController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.CategoriesController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCategoryDto",
+        "Type": "MultiShop.Catalog.Dtos.CategoryDtos.UpdateCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.CategoriesController",
+    "Method": "GetCategoryById",
+    "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ContactsController",
+    "Method": "ContactList",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ContactsController",
+    "Method": "CreateContact",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createContactDto",
+        "Type": "MultiShop.Catalog.Dtos.ContactDtos.CreateContactDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ContactsController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ContactsController",
+    "Method": "UpdateContact",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateContactDto",
+        "Type": "MultiShop.Catalog.Dtos.ContactDtos.UpdateContactDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ContactsController",
+    "Method": "GetContactById",
+    "RelativePath": "api/Contacts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "FeatureList",
+    "RelativePath": "api/Features",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "CreateFeature",
+    "RelativePath": "api/Features",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createFeatureDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureDtos.CreateFeatureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "DeleteFeature",
+    "RelativePath": "api/Features",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "UpdateFeature",
+    "RelativePath": "api/Features",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateFeatureDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureDtos.UpdateFeatureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "GetFeatureById",
+    "RelativePath": "api/Features/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "FeatureSliderList",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "CreateFeatureSlider",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createFeatureSliderDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureSliderDtos.CreateFeatureSliderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "DeleteFeatureSlider",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "UpdateFeatureSlider",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateFeatureSliderDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureSliderDtos.UpdateFeatureSliderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "GetFeatureSliderById",
+    "RelativePath": "api/FeatureSliders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "OfferDiscountList",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "CreateOfferDiscount",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createOfferDiscountDto",
+        "Type": "MultiShop.Catalog.Dtos.OfferDiscountDtos.CreateOfferDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "DeleteOfferDiscount",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "UpdateOfferDiscount",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateOfferDiscountDto",
+        "Type": "MultiShop.Catalog.Dtos.OfferDiscountDtos.UpdateOfferDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "GetOfferDiscountById",
+    "RelativePath": "api/OfferDiscounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
+    "Method": "ProductDetailList",
+    "RelativePath": "api/ProductDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
+    "Method": "CreateProductDetail",
+    "RelativePath": "api/ProductDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProductDetailDto",
+        "Type": "MultiShop.Catalog.Dtos.ProductDetailDtos.CreateProductDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
+    "Method": "DeleteProductDetail",
+    "RelativePath": "api/ProductDetails",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
+    "Method": "UpdateProductDetail",
+    "RelativePath": "api/ProductDetails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProductDetailDto",
+        "Type": "MultiShop.Catalog.Dtos.ProductDetailDtos.UpdateProductDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
+    "Method": "GetProductDetailById",
+    "RelativePath": "api/ProductDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
+    "Method": "GetProductDetailByProductId",
+    "RelativePath": "api/ProductDetails/GetProductDetailByProductId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "ProductImageList",
+    "RelativePath": "api/ProductImages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "CreateProductImage",
+    "RelativePath": "api/ProductImages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProductImageDto",
+        "Type": "MultiShop.Catalog.Dtos.ProductImageDtos.CreateProductImageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "DeleteProductImage",
+    "RelativePath": "api/ProductImages",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "UpdateProductImage",
+    "RelativePath": "api/ProductImages",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProductImageDto",
+        "Type": "MultiShop.Catalog.Dtos.ProductImageDtos.UpdateProductImageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "GetProductImageById",
+    "RelativePath": "api/ProductImages/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "ProductImagesByProductId",
+    "RelativePath": "api/ProductImages/ProductImagesByProductId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "ProductList",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProductDto",
+        "Type": "MultiShop.Catalog.Dtos.ProductDtos.CreateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Products",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Products",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProductDto",
+        "Type": "MultiShop.Catalog.Dtos.ProductDtos.UpdateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "ProductListWithCategory",
+    "RelativePath": "api/Products/ProductListWithCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "ProductListWithCategoryByCategoryId",
+    "RelativePath": "api/Products/ProductListWithCategoryByCategoryId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "SpecialOfferList",
+    "RelativePath": "api/SpecialOffers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "CreateSpecialOffer",
+    "RelativePath": "api/SpecialOffers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createSpecialOfferDto",
+        "Type": "MultiShop.Catalog.Dtos.SpecialOfferDtos.CreateSpecialOfferDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "DeleteSpecialOffer",
+    "RelativePath": "api/SpecialOffers",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "UpdateSpecialOffer",
+    "RelativePath": "api/SpecialOffers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateSpecialOfferDto",
+        "Type": "MultiShop.Catalog.Dtos.SpecialOfferDtos.UpdateSpecialOfferDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "GetSpecialOfferById",
+    "RelativePath": "api/SpecialOffers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.StatisticsController",
+    "Method": "GetBrandCount",
+    "RelativePath": "api/Statistics/GetBrandCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.StatisticsController",
+    "Method": "GetCategoryCount",
+    "RelativePath": "api/Statistics/GetCategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.StatisticsController",
+    "Method": "GetMaxPriceProductName",
+    "RelativePath": "api/Statistics/GetMaxPriceProductName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.StatisticsController",
+    "Method": "GetMinPriceProductName",
+    "RelativePath": "api/Statistics/GetMinPriceProductName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.StatisticsController",
+    "Method": "GetProductAvgPrice",
+    "RelativePath": "api/Statistics/GetProductAvgPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.StatisticsController",
+    "Method": "GetProductCount",
+    "RelativePath": "api/Statistics/GetProductCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

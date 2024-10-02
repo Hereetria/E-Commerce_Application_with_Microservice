@@ -1,0 +1,2837 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MultiShop.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MultiShop.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\ie.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\ie.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\cross.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\key.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\key.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\tick.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\readme.txt",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\screen.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\readme.txt",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\screen.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\doc.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\doc.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\email.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\external.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\external.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\feed.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\feed.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\im.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\im.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\pdf.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\visited.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\visited.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\xls.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\xls.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\screen.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\readme.txt",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\screen.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\print.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\print.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\screen.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\forms.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\grid.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\grid.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\ie.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\ie.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\print.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\print.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\reset.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\typography.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\blueprint-css\\src\\typography.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\images\\htmlstructure.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\assets\\images\\htmlstructure.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\help-documentation\\index.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\help-documentation\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\calendar.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\contacts.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\gallery.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\invoice.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\project-summary.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\project-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\app\\timeline.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\app\\timeline.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\3d.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\3d.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\area.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\area.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\bar.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\bar.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\bubble.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\bubble.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\combinations.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\combinations.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\line.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\line.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\charts\\pie.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\charts\\pie.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\alerts.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\buttons.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\carousel.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\collapse.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\listgroup.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\listgroup.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\mediaobjects.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\mediaobjects.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\pagination.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\popovers.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\progress.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\tabs.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\component\\tooltips.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\component\\tooltips.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dashboard-2.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dashboard-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dashboard-3.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dashboard-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\body-bg.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\body-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img10.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img11.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img12.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img13.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img14.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img15.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img16.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img17.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img18.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img3.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img4.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img5.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img6.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img7.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img8.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img9.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\logo-lg.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\logo-lg.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-10.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-11.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-12.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb1.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb10.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb11.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb12.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb2.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb3.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb4.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb5.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb6.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb7.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb8.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb9.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\media\\thumb\\thumb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\js\\ovio.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\js\\ovio.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\dist\\weather\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\general-elements.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\general-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\layouts.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\validation.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\validation.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\forms\\wizard.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\forms\\wizard.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index-boxed.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index-boxed.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index-collapsed-sidebar.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index-collapsed-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index-dark.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index-dark.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index-light.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index-rtl.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index-rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index-top-nav.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index-top-nav.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\google-maps.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\google-maps.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\maps\\vector-map.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\maps\\vector-map.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\coming-soon.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\coming-soon.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\forgot-password.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\login.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\pages\\register.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\jquery.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\3d-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\3d-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\area-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\area-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\bar-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\bar-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\bubble-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\bubble-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\highcharts-3d.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\highcharts-more.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\highcharts.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\highcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\modules\\exporting.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\code\\modules\\exporting.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\comb-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\comb-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\line-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\line-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\pie-chart-functions.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\charts\\pie-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\countdown.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\custom.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\bg-slide-1.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\bg-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\bg-slide-2.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\bg-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\bg-slide-3.jpg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\bg-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\loading.GIF",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\img\\loading.GIF"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\jquery.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\simplyCountdown.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\simplyCountdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\simplyCountdown.theme.losange.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\simplyCountdown.theme.losange.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\images\\loading.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\images\\loading.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\overlays\\15.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\countdown\\vegas\\overlays\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\img\\cbp-loading-popup.gif",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\img\\cbp-loading-popup.gif"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\img\\cbp-loading.gif",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\img\\cbp-loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\img\\cbp-sprite.png",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\img\\cbp-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\jquery-latest.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\jquery-latest.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.min.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\main.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\cubeportfolio\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\jquery.mapael.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\jquery.mapael.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\stepform\\jq.stepform.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\stepform\\jq.stepform.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\tables\\jquery.tablesort.js",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\plugins\\tables\\jquery.tablesort.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\basic.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\data.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\data.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\widgets.html",
+      "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\widgets.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\opensans-font.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\css\\opensans-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\style.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\index.html",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\readme.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\image\\chip.png",
+      "PackagePath": "staticwebassets\\image\\chip.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\image\\visa.png",
+      "PackagePath": "staticwebassets\\image\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\adidas.png",
+      "PackagePath": "staticwebassets\\images\\adidas.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel3.png",
+      "PackagePath": "staticwebassets\\images\\carousel3.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\cleanthings.jpg",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\cleanthings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\clothes.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\clothes.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\clothes2.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\clothes2.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\electronics.jpg",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\electronics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\fastfood.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\fastfood.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\fruit.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\fruit.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\furniture.jpg",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\kitchen.jpg",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\kitchen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\laptop.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\phone.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\shoes.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\shoes.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\toy.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\toy.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\categoryimages\\vegetables.png",
+      "PackagePath": "staticwebassets\\images\\categoryimages\\vegetables.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\columbia.png",
+      "PackagePath": "staticwebassets\\images\\columbia.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\featureproductimages\\detergant.jpg",
+      "PackagePath": "staticwebassets\\images\\featureproductimages\\detergant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\featureproductimages\\jumper.jpg",
+      "PackagePath": "staticwebassets\\images\\featureproductimages\\jumper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\featureproductimages\\laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\featureproductimages\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\featureproductimages\\soap.jpg",
+      "PackagePath": "staticwebassets\\images\\featureproductimages\\soap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\featureproductimages\\toothpaste.jpg",
+      "PackagePath": "staticwebassets\\images\\featureproductimages\\toothpaste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\hummel.jpg",
+      "PackagePath": "staticwebassets\\images\\hummel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikea.png",
+      "PackagePath": "staticwebassets\\images\\ikea.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikearoom.jpg",
+      "PackagePath": "staticwebassets\\images\\ikearoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikearoom2.jpg",
+      "PackagePath": "staticwebassets\\images\\ikearoom2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\koctas.jpg",
+      "PackagePath": "staticwebassets\\images\\koctas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\lacoste.jpg",
+      "PackagePath": "staticwebassets\\images\\lacoste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\logos\\MULTISHOPPNG.png",
+      "PackagePath": "staticwebassets\\images\\logos\\MULTISHOPPNG.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\logos\\manlogo.jpg",
+      "PackagePath": "staticwebassets\\images\\logos\\manlogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\logos\\mulhtishop1.jpg",
+      "PackagePath": "staticwebassets\\images\\logos\\mulhtishop1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\nike.png",
+      "PackagePath": "staticwebassets\\images\\nike.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
+      "PackagePath": "staticwebassets\\images\\room2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room3.jpg",
+      "PackagePath": "staticwebassets\\images\\room3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun1.png",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun1.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun2.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun3.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun4.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun5.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
+      "PackagePath": "staticwebassets\\images\\womanshopping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\cart.html",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\checkout.html",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\contact.html",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\style.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\detail.html",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\payments.png",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\index.html",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\js\\main.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\online-shop-website-template.jpg",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\online-shop-website-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\shop.html",
+      "PackagePath": "staticwebassets\\online-shop-website-template\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\.gitattributes",
+      "PackagePath": "staticwebassets\\spica\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\spica\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\README.md",
+      "PackagePath": "staticwebassets\\spica\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\spica\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\css\\style.css",
+      "PackagePath": "staticwebassets\\spica\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\spica\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\docs\\documentation.html",
+      "PackagePath": "staticwebassets\\spica\\docs\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\docs\\documentation.js",
+      "PackagePath": "staticwebassets\\spica\\docs\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\gulpfile.js",
+      "PackagePath": "staticwebassets\\spica\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\spica\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\spica\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\spica\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\other\\navbar-cover.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\other\\navbar-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\images\\other\\navbar-cover2.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\other\\navbar-cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\index.html",
+      "PackagePath": "staticwebassets\\spica\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\js\\chart.js",
+      "PackagePath": "staticwebassets\\spica\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\spica\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\spica\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\spica\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\spica\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\js\\template.js",
+      "PackagePath": "staticwebassets\\spica\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\package-lock.json",
+      "PackagePath": "staticwebassets\\spica\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\package.json",
+      "PackagePath": "staticwebassets\\spica\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\spica\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\spica\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\spica\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\preview.jpg",
+      "PackagePath": "staticwebassets\\spica\\preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_preview.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\plugin-overrides\\_progressbar-js.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\plugin-overrides\\_progressbar-js.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\components\\plugin-overrides\\_pws-tabs.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\components\\plugin-overrides\\_pws-tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\spica\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\spica\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\spica\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\spica\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Okan\\Desktop\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MultiShop.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MultiShop.WebUI.props",
+      "PackagePath": "build\\MultiShop.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MultiShop.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\MultiShop.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MultiShop.WebUI.props",
+      "PackagePath": "buildTransitive\\MultiShop.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

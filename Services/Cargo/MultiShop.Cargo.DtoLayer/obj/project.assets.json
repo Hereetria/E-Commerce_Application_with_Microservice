@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MultiShop.Cargo.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MultiShop.Cargo.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiShop.Cargo.EntityLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiShop.Cargo.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../MultiShop.Cargo.EntityLayer/MultiShop.Cargo.EntityLayer.csproj",
+      "msbuildProject": "../MultiShop.Cargo.EntityLayer/MultiShop.Cargo.EntityLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MultiShop.Cargo.EntityLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Okan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Okan\\Desktop\\!!Arange\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj",
+      "projectName": "MultiShop.Cargo.DtoLayer",
+      "projectPath": "C:\\Users\\Okan\\Desktop\\!!Arange\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj",
+      "packagesPath": "C:\\Users\\Okan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Okan\\Desktop\\!!Arange\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Okan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Okan\\Desktop\\!!Arange\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Okan\\Desktop\\!!Arange\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

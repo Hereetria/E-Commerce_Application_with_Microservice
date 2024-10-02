@@ -1,0 +1,18 @@
+﻿<div class="container-fluid">
+    <div class="row px-xl-5">
+        <div class="col-12">
+            <nav class="breadcrumb bg-light mb-30">
+                <a class="breadcrumb-item text-dark" href="#">@ViewBag.directory1</a>
+                @if (ViewBag.directory3 != null)
+                {
+                    <a class="breadcrumb-item text-dark" href="#">@ViewBag.directory2</a>
+                    <span class="breadcrumb-item active">@ViewBag.directory3</span>
+                }
+                else
+                {
+                    <span class="breadcrumb-item active">@ViewBag.directory2</span>
+                }
+            </nav>
+        </div>
+    </div>
+</div>

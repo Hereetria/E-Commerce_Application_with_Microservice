@@ -1,0 +1,13 @@
+        public IViewComponentResult Invoke()
+        {
+            return View();
+        }
+
+
+
+
+~/online-shop-website-template/
+
+
+
+~/images/

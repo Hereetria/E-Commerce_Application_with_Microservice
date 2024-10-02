@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "MultiShop.IdentityServer.Controllers.LoginsController",
+    "Method": "UserLogin",
+    "RelativePath": "api/Logins",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLoginDto",
+        "Type": "MultiShop.IdentityServer.Dtos.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.IdentityServer.Controllers.RegistersController",
+    "Method": "UserRegister",
+    "RelativePath": "api/Registers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegisterDto",
+        "Type": "MultiShop.IdentityServer.Dtos.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.IdentityServer.Controllers.StatisticsController",
+    "Method": "GetUserCount",
+    "RelativePath": "api/Statistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.IdentityServer.Controllers.UsersController",
+    "Method": "GetAllUserList",
+    "RelativePath": "api/Users/GetAllUserList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.IdentityServer.Controllers.UsersController",
+    "Method": "GetUser",
+    "RelativePath": "api/Users/GetUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

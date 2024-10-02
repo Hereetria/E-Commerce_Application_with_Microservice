@@ -1,0 +1,6 @@
+@MultiShop.Message_HostAddress = http://localhost:5241
+
+GET {{MultiShop.Message_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

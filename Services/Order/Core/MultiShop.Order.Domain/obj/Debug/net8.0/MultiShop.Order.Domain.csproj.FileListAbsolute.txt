@@ -1,0 +1,11 @@
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\bin\Debug\net8.0\MultiShop.Order.Domain.deps.json
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\bin\Debug\net8.0\MultiShop.Order.Domain.dll
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\bin\Debug\net8.0\MultiShop.Order.Domain.pdb
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.AssemblyInfo.cs
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.dll
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\refint\MultiShop.Order.Domain.dll
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\MultiShop.Order.Domain.pdb
+C:\Users\Okan\Desktop\MultiShop\Services\Order\Core\MultiShop.Order.Domain\obj\Debug\net8.0\ref\MultiShop.Order.Domain.dll

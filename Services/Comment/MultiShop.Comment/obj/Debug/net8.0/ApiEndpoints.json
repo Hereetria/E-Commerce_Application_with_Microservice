@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "CommentList",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "CreateComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userComment",
+        "Type": "MultiShop.Comment.Entities.UserComment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "DeleteComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "UpdateComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userComment",
+        "Type": "MultiShop.Comment.Entities.UserComment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "GetComment",
+    "RelativePath": "api/Comments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "CommentListByProductId",
+    "RelativePath": "api/Comments/CommentListByProductId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "GetActiveCommentCount",
+    "RelativePath": "api/Comments/GetActiveCommentCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "GetPassiveCommentCount",
+    "RelativePath": "api/Comments/GetPassiveCommentCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentsController",
+    "Method": "GetTotalCommentCount",
+    "RelativePath": "api/Comments/GetTotalCommentCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Comment.Controllers.CommentStatisticsController",
+    "Method": "GetCommentCount",
+    "RelativePath": "api/CommentStatistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

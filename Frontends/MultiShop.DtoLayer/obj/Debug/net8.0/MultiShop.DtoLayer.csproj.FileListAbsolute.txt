@@ -1,0 +1,11 @@
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\bin\Debug\net8.0\MultiShop.DtoLayer.deps.json
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\bin\Debug\net8.0\MultiShop.DtoLayer.dll
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\bin\Debug\net8.0\MultiShop.DtoLayer.pdb
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.AssemblyInfo.cs
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.dll
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\refint\MultiShop.DtoLayer.dll
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.pdb
+C:\Users\Okan\Desktop\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net8.0\ref\MultiShop.DtoLayer.dll

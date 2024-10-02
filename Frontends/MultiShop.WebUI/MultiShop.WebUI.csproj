@@ -1,0 +1,80 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Admin\Views\Shared\Components\_AdminLayoutHeadComponentPartial\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\_AdminLayoutHeaderComponentPartial\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\_AdminLayoutMainSectionViewbagComponentPartial\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\_AdminLayoutSidebarComponentPartial\Default.cshtml" />
+    <None Include="Views\Contact\Index.cshtml" />
+    <None Include="Views\Default\Index.cshtml" />
+    <None Include="Views\Login\Index.cshtml" />
+    <None Include="Views\ProductList\AddComment.cshtml" />
+    <None Include="Views\ProductList\Index.cshtml" />
+    <None Include="Views\ProductList\ProductDetail.cshtml" />
+    <None Include="Views\Shared\Components\_CarouselDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_CategoriesDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ContactDetailComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_FeatureDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_FeatureProductDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_FooterUILayoutComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_HeadUILayoutComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_NavbarUILayoutComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_OfferDiscountDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductDetailDescriptionComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductDetailFeatureComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductDetailImageSliderComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductDetailInformationComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductDetailReviewComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductListColourFilterComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductListComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductListGetProductCountComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductListPaginationComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductListPriceFilterComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ProductListSizeFilterComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ScriptUILayautComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ShoppingCartDiscountCouponComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_ShoppingCartProductListComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_SpecialOfferDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_TopBarUILayoutComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_VendorDefaultComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\ShoppingCart\Index.cshtml" />
+    <None Include="Views\UILayout\_UILayout.cshtml" />
+    <None Include="Views\User\Index.cshtml" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\help-documentation\assets\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\app\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\charts\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\component\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\forms\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\maps\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\pages\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\tables\et-line-font\fonts\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityModel.AspNetCore" Version="3.0.0" />
+    <PackageReference Include="IdentityServer4.Storage" Version="4.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MultiShop.DtoLayer\MultiShop.DtoLayer.csproj" />
+  </ItemGroup>
+
+</Project>

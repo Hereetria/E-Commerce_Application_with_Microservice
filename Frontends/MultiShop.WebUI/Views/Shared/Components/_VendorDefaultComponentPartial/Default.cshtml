@@ -1,0 +1,33 @@
+﻿@model List<ResultBrandDto>
+
+<style>
+    .img-cover {
+        width: 297px;
+        height: 198px;
+        object-fit: contain;
+        display: block;
+    }
+    .img-container{
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        align-items: center; 
+        justify-content: center;
+    }
+</style>
+
+<div class="container-fluid py-5">
+    <div class="row px-xl-5">
+        <div class="col">
+            <div class="owl-carousel vendor-carousel">
+               
+                @foreach(var item in Model)
+                {
+                    <div class="bg-light p-4 img-container">
+                        <img src="@item.ImageUrl" class=" img-fluid w-100 img-cover" alt="">
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
