@@ -4,7 +4,7 @@ Bu proje, Murat Yücedağ'ın Udemy'de yayınlamış olduğu 56 saatlik mikroser
 
 Projede misafir kullanıcılar için ayrı, giriş yapan kullanıcılar için ayrı, admin için ayrı bir yetkilendirme sistemi uygulanmıştır. Kullanıcı, ana sayfadan sepete ürün ekleyebilmekte, ürünün detaylarını görüntüleyebilmekte, kategoriye göre filtreleyebilmekte ve bir e-ticaret sitesinde yapılabilecek pek çok şeyi yapabilmektedir. Projede veritabanları Docker üzerinden bağlandı ve temiz kod ile SOLID prensiplerine uymaya dikkat gösterildi. Ayrıca sayfa tamamen dinamik olup, kod yazmadan admin panelinden görüntülenen içerikler yönetilebilmektedir.
 
-# Kullanılan Teknolojiler
+#Kullanılan Teknolojiler
 1. Redis
 2. Dapper
 3. Docker
