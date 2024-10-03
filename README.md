@@ -2,7 +2,7 @@
 
 Bu proje, Murat Yücedağ'ın Udemy'de yayınlamış olduğu 56 saatlik mikroservis projesidir.
 
-Projede misafir kullanıcılar için ayrı, giriş yapan kullanıcılar için ayrı, admin için ayrı bir yetkilendirme sistemi uygulanmıştır. Kullanıcı, ana sayfadan sepete ürün ekleyebilmekte, ürünün detaylarını görüntüleyebilmekte, kategoriye göre filtreleyebilmekte ve bir e-ticaret sitesinde yapılabilecek pek çok şeyi yapabilmektedir. Veritabanları Docker üzerinden bağlandı ve projede temiz kod ile SOLID prensiplerine uymaya dikkat gösterilmiştir. Ayrıca sayfa tamamen dinamik olup, kod yazmadan admin panelinden görüntülenen içerikler yönetilebilmektedir.
+Projede misafir kullanıcılar için ayrı, giriş yapan kullanıcılar için ayrı, admin için ayrı bir yetkilendirme sistemi uygulanmıştır. Kullanıcı, ana sayfadan sepete ürün ekleyebilmekte, ürünün detaylarını görüntüleyebilmekte, kategoriye göre filtreleyebilmekte ve bir e-ticaret sitesinde yapılabilecek pek çok şeyi yapabilmektedir. Projede veritabanları Docker üzerinden bağlandı ve temiz kod ile SOLID prensiplerine uymaya dikkat gösterildi. Ayrıca sayfa tamamen dinamik olup, kod yazmadan admin panelinden görüntülenen içerikler yönetilebilmektedir.
 
 # Kullanılan Teknolojiler
 1. Redis
@@ -25,3 +25,4 @@ Projede misafir kullanıcılar için ayrı, giriş yapan kullanıcılar için ay
 18. Authorization
 19. JSON Web Token
 20. JWT Bearer
+21. AutoMapper
