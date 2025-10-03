@@ -33,6 +33,25 @@ All databases are containerized using Docker, and content can be managed entirel
 
 <br>
 
+## 🖼️ Screenshots
+Shown below in order:  
+**1. Landing** · **2. Categories & Products** · **3. Shop**<br>
+**4. Payment** · **5. Dashboard** 
+
+<p align="center">
+  <img src="./docs/screenshots/landing.png" width="32%">
+  <img src="./docs/screenshots/categories-and-products.png" width="32%">
+  <img src="./docs/screenshots/shop.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/payment.png" width="32%">
+  <img src="./docs/screenshots/dashboard.png" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+</p>
+
+<br>
+
 ## 🧰 Tech Stack
 
 <p>
