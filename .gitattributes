@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Make sure C# files are always detected
+*.cs linguist-detectable=true
+*.csproj linguist-detectable=true
+*.sln linguist-detectable=true
+
+# Ignore frontend/static files so repo shows C# as main language
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.ts linguist-detectable=false
+
+# Ignore wwwroot and docs folders (if they exist)
+wwwroot/* linguist-vendored
+docs/* linguist-vendored
